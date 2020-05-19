@@ -1,2 +1,15 @@
-# meal-maker
-Meal Maker is the fifth project from Codecademy's Web Development Course Module 5: JavaScript: Arrays, Loops, and Objects
+# Meal Maker
+
+As a frequent diner, you love trying out new restaurants and experimenting with different foods. However, having to figure out what you want to order can be a time-consuming ordeal if the menu is big, and you want an easier way to be able to figure out what you are going to eat.
+
+In this project, you’ll use JavaScript to randomly create a three-course meal based on what is available on a menu. We’ll keep running it until we’re satisfied with the generated meal!
+
+> Project 5 in the Codecademy Web Development Course Module 5: JavaScript: Arrays, Loops, and Objects
+
+## Author
+
+### Aaron Long
+
+- [GitHub Profile](https://github.com/aaronlng/)
+
+- Twitter: [@aaronlng](https://twitter.com/aaronlng)
